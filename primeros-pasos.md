@@ -54,7 +54,7 @@ Verifica de nuevo que el eje esté cuadrado con el marco.
 
 [Video](https://www.youtube.com/watch?v=i1R7LTF9-uY&feature=youtu.be)
 
-**Verifica que el tubo de PTFE está completamente introducido en el extrusor
+**Verifica que el tubo de PTFE está completamente introducido en el extrusor**
 
 
 ## Inspeccionar eje X
