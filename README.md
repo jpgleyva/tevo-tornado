@@ -20,3 +20,4 @@ ___
 
 # INDICE
 1. [Primeros pasos](https://jpgleyva.github.io/tevo-tornado/primeros-pasos)
+2. [Nivelar la cama](https://jpgleyva.github.io/tevo-tornado/nivelar-la-cama)
