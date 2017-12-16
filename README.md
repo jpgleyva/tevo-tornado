@@ -9,9 +9,11 @@
 Aquí encontrará información que le ayudará a configurar su impresora Tevo Tornado.
 Esta es la [página oficial de TEVO](https://tevo3dprinterstore.com/products/2017-newsest-tevo-tornado-fully-assembled-3d-printer-3d-printing) y este el [grupo de facebook](https://www.facebook.com/groups/TEVO.Tornado.Owners/).
 
+___
 
+** Review en español **
 
-
+[![Tevo Tornado Review](https://i.imgur.com/8IpXCRn.png)](https://www.youtube.com/watch?v=T60aUBAolTw "Tevo Tornado Review")
 
 ___
 
