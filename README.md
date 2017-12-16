@@ -11,7 +11,7 @@ Esta es la [página oficial de TEVO](https://tevo3dprinterstore.com/products/201
 
 ___
 
-** Review en español **
+**Review en español**
 
 [![Tevo Tornado Review](https://i.imgur.com/8IpXCRn.png)](https://www.youtube.com/watch?v=T60aUBAolTw "Tevo Tornado Review")
 
